@@ -1,0 +1,12 @@
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+.h1 {
+    color: #FFF8DC;
+}
+
+.container{
+max-width: 100%;
+max-weight: 100%;
+margin-left: 50px;
+}
